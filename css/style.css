@@ -35,13 +35,3 @@ background-color: black;
 color: white;
 transition: all 0.5s ease;
 }
-
-
-
-
-
-.header__text h2{
-	position: absolute;
-	padding: 15px;
-	margin: center;
-}
