@@ -20,3 +20,7 @@ ul, li{
 	width: 1170px;
 	margin: 0 auto;
 }
+
+.header{
+	background: url('..img/backimg.jpg') no-repeat center top / cover;
+}
