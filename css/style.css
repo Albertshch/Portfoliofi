@@ -20,9 +20,8 @@ ul, li{
 	width: 1170px;
 	margin: 0 auto;
 }
-
-.header{
-	background: url('..img/backimg.jpg') no-repeat center top / cover;
+header{
+	background: url(img/backimg.jpg) repeat-y #f90;
 }
 
 header a{
