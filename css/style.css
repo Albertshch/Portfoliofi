@@ -24,3 +24,7 @@ ul, li{
 .header{
 	background: url('..img/backimg.jpg') no-repeat center top / cover;
 }
+
+header a{
+	color: white;
+}
