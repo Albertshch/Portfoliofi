@@ -22,6 +22,8 @@ ul, li{
 }
 header{
 	background: url(../img/backheader.jpg) no-repeat center top / cover;
+	padding-top: 54px;
+	color: white;
 }
 
 header a{
@@ -36,6 +38,7 @@ header a{
 	text-transform: uppercase;
 	text-decoration: none;
 	font-size: 14px;
+	letter-spacing: 0.1em;
 
 }
 
@@ -45,5 +48,19 @@ header a{
 
 .tel {
 	text-decoration: none;
-	color: black;
+	color: white;
+	font-size: 13px;
+	margin-left: auto;
+	letter-spacing: 0.1em;
+}
+
+.nav{
+	display: flex;
+	align-items: center;
+}
+
+.logo{
+	width: 70px;
+	height: 50px;
+	margin-left: auto;
 }
