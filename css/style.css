@@ -21,9 +21,29 @@ ul, li{
 	margin: 0 auto;
 }
 header{
-	background: url(img/backimg.jpg) repeat-y #f90;
+	background: url(../img/backheader.jpg) no-repeat center top / cover;
 }
 
 header a{
 	color: white;
+}
+
+.menu{
+	display: flex;
+}
+
+.menu li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+
+}
+
+.menu li{
+	margin-right: 40px;
+}
+
+.tel {
+	text-decoration: none;
+	color: black;
 }
