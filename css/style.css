@@ -67,15 +67,15 @@ position: relative;
 
 
 .header__email {
+	margin-left: 100px;
 	color: white;
 	border-bottom: 1px  solid yellow;
-	position: static;
 }
 .header__email::before {
 	font-family: 'icomoon';
 	content: "\f003";
 	position: absolute;
-	left: 220px;
+	left: 320px;
 
 }
 body {
