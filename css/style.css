@@ -87,10 +87,20 @@ body {
 }
 
 .header__content{
-	padding: 34px;
+	padding: 5px;
 }
 
 .imglogo{
 	width: 90px;
 	height: 50px;
+}
+#modal{
+	display: none;
+}
+.slider {
+	background-image: url(../img/backimg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 500px;
 }
