@@ -18,7 +18,7 @@ ul, li {
 	font-size: 16px;
 	line-height: 36px;
 	border: 1px solid transparent;
-	padding: 0 10px;
+	padding: 0 15px;
 }
 .menu a:hover {
 	border-color: teal;
@@ -87,7 +87,7 @@ body {
 }
 
 .header__content{
-	padding: 5px;
+	padding: 10px;
 }
 
 .imglogo{
