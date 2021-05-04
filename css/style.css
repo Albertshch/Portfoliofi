@@ -104,3 +104,12 @@ body {
 	background-position: center;
 	min-height: 500px;
 }
+.slider__item{
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+	max-width: 1170px;
+}
+.slider__title{
+	text-transform: uppercase;
+}
