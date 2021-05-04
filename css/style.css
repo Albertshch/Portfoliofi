@@ -112,4 +112,24 @@ body {
 }
 .slider__title{
 	text-transform: uppercase;
+	font-size: 30px;
+	line-height: 16px;
+	font-weight: 700;
+	letter-spacing: 1.5px;
+	margin-bottom: 22px;
+}
+
+.slider__text {
+	line-height: 12px;
+	color: #d3d2d2;
+	margin-bottom: 50px;
+}
+
+.slider__btn {
+font-size: 16px;
+line-height: 14px;
+color: white;
+font-weight: 500;
+padding: 8px 50px 8px 24px;
+border: 1px solid yellow;
 }
